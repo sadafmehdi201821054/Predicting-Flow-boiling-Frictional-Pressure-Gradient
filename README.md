@@ -1,4 +1,4 @@
-# NGBoost Pressure Gradient Model
+# NGBoost Frictional Pressure Gradient Model
 
 This package contains a trained probabilistic machine learning model for
 predicting two-phase frictional pressure gradients in multiport tubes,
