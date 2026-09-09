@@ -82,3 +82,5 @@ original physical units; no further transformation is needed on your end.
 
 Please reach out to [Sadaf Mehdi @ smehdi@purdue.edu] with any issues running
 the script or interpreting the output.
+
+Development of the model-serialization workflow and prediction script was assisted by Gemini (Google)
