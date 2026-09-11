@@ -53,7 +53,7 @@ your own values, or point it at an Excel file with
 
 **Option B — import the function into your own code:**
 ```python
-from reviewer_predict_script import predict_with_uncertainty
+from predict_script import predict_with_uncertainty
 import pandas as pd
 
 your_data = pd.read_excel("your_test_data.xlsx")
