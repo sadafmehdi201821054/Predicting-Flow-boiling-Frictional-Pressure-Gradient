@@ -45,7 +45,7 @@ in the same folder, then either:
 
 **Option A — run directly:**
 ```bash
-python reviewer_predict_script.py
+python PredictscriptNGBoost.py
 ```
 Edit the example `test_data` DataFrame near the bottom of the script with
 your own values, or point it at an Excel file with
