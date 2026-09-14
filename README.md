@@ -10,7 +10,7 @@ no retraining required.
 | File | Description |
 |---|---|
 | `ngboost_pressure_gradient_model.pkl` | The trained NGBoost model (Normal distribution, RandomForest base learner), packaged with its feature list and inference settings. |
-| `reviewer_predict_script.py` | Loads the model and computes predictions with 95% confidence intervals. |
+| `PredictscriptNGBoost.py` | Loads the model and computes predictions with 95% confidence intervals. |
 | `README.md` | This file. |
 
 ## Setup
